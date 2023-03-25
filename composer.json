@@ -1,0 +1,20 @@
+{
+    "name": "fadilxcoder/in-memory-dba",
+    "description": "In Memory Database Abstraction Layer",
+    "version": "master",
+    "type": "package",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Fadil",
+            "email": "fadil@xcoder.dvlpr",
+            "homepage": "https://github.com/fadilxcoder"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"InMemory\\Dba\\": "src/"}
+    }
+}
