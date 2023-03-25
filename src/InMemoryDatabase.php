@@ -1,6 +1,9 @@
 <?php
 
-namespace InMemory\Dba\Core;
+namespace InMemory\Dba;
+
+use InMemory\Dba\Core\Cache;
+use InMemory\Dba\Core\Sweep;
 
 class InMemoryDatabase
 {
