@@ -1,7 +1,6 @@
 {
     "name": "fadilxcoder/in-memory-dba",
     "description": "In Memory Database Abstraction Layer",
-    "version": "master",
     "type": "package",
     "require": {
         "php": ">=7.2.0"
