@@ -18,7 +18,7 @@ class InMemoryDatabase
         }
 
         if (!isset(self::$connection)) {
-            self::$connection = new Cache($this->path() . "/" . self::DB_NAME , 'flatfile', 'c-', true);
+            self::$connection = new Cache($this->path() . "/" . self::DB_NAME , 'db4');
         }
 
         return self::$connection;
