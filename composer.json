@@ -8,9 +8,8 @@
     "license": "mit",
     "authors": [
         {
-            "name": "Fadil",
-            "email": "fadil@xcoder.dvlpr",
-            "homepage": "https://github.com/fadilxcoder"
+            "name": "fadilxcoder",
+            "email": "fadilxcoder@gmail.com"
         }
     ],
     "autoload": {
